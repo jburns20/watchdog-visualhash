@@ -1,6 +1,7 @@
 {
   "name": "Visual Hashing",
   "version": "1.0",
+  "manifest_version": 3,
   "description": "Changes the background of password entry fields to a four-color visual hash.",
   "content_scripts": [
     {
